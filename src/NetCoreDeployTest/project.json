@@ -48,7 +48,10 @@
       "**/*.cshtml",
       "appsettings.json",
       "web.config"
-    ]
+    ],
+    "mappings": {
+      "project.json":  "pack.json" 
+    }
   },
 
   "scripts": {
