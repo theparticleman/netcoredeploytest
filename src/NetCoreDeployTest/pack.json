@@ -1,9 +1,0 @@
-﻿{
-  "packOptions": {
-    "projectUrl": "https://github.com/theparticleman/netcoredeploytest",
-    "files": {
-      "include": "**/*.*",
-      "exclude": [ "project.json", "FSharp/*.xml", "ScriptCS/*.ps1" ]
-    }
-  }
-}
